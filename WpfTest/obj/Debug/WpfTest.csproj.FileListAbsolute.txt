@@ -32,3 +32,9 @@ E:\Project\WpfTest\WpfTest\obj\Debug\WpfTest.exe
 E:\Project\WpfTest\WpfTest\obj\Debug\WpfTest.pdb
 E:\Project\WpfTest\WpfTest\obj\Debug\ComboBox.g.cs
 E:\Project\WpfTest\WpfTest\obj\Debug\ComboBox.baml
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\ComboBox.g.cs
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\ListBox.g.cs
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\PropertyEventDataTrigger.g.cs
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\ComboBox.baml
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\ListBox.baml
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\PropertyEventDataTrigger.baml

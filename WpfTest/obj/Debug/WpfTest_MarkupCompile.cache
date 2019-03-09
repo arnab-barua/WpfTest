@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Project\WpfTest\WpfTest\obj\Debug\
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\obj\Debug\
 WpfTest
 none
 false
 DEBUG;TRACE
-E:\Project\WpfTest\WpfTest\App.xaml
-3-827366737
+C:\Users\VLINK\Documents\Visual Studio 2017\Projects\WpfTest\WpfTest\App.xaml
+4415362934
 
-91262843672
+10319341812
 131569487696
-ComboBox.xaml;ListBox.xaml;MainWindow.xaml;
+ComboBox.xaml;ListBox.xaml;MainWindow.xaml;PropertyEventDataTrigger.xaml;
 
 False
 
